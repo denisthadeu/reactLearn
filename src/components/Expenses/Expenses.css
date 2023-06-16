@@ -5,3 +5,10 @@
     width: 50rem;
     max-width: 95%;
 }
+
+.no_expenses_found {
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 5%;
+}
